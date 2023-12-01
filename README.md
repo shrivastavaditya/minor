@@ -80,12 +80,12 @@ Please ensure you have the following dependencies installed on your system:
 
 1. Clone the server-chatapp-nestjs repository:
 ```sh
-git clone https://github.com/guillaumefalvet/server-chatapp-nestjs
+git clone https://github.com/shrivastavaditya/minor
 ```
 
 2. Change to the project directory:
 ```sh
-cd server-chatapp-nestjs
+cd minor
 ```
 
 3. Install the dependencies:
