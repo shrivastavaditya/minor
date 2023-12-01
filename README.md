@@ -1,4 +1,4 @@
-![image](https://github.com/shrivastavaditya/minor/assets/96301987/b7d772c1-0688-4ddb-b789-3362309481b2)<div align="center">
+<div align="center">
 <h1 align="center">
 <img src="https://github.com/shrivastavaditya/minor/blob/main/Picture1.png" width="200" />
 <br>BotaniBrain : Smart Plant Diseases Diagnosis
