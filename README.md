@@ -116,7 +116,7 @@ npm test
   - Integrate initial disease identification models for five crops.
 - **Frontend Design:**
   - Develop basic UI using HTML, Tailwind CSS, and Vue.js.
-  - Implement user authentication and image upload functionality.
+  - Implement image upload functionality.
 
 #### Tasks:
 - Set up the development environment and version control system.
@@ -130,27 +130,11 @@ npm test
   - Train and integrate the retrieval-based chatbot with disease information.
 - **Enhanced Disease Models:**
   - Refine and optimize disease identification models.
-  - Expand disease detection to more crop varieties.
 
 #### Tasks:
 - Integrate OpenAI API for chatbot capabilities.
 - Fine-tune disease identification models for accuracy improvements.
 - Collect and preprocess data for additional crop disease models.
-
-###  Phase 3: Optimization and Future Development (Ongoing)
-
-####  Milestones:
-- **Optimization:**
-  - Continuously optimize models for improved accuracy and efficiency.
-  - Implement user feedback mechanisms for continual improvement.
-- **AI Advancements:**
-  - Explore advanced AI techniques for personalized farmer interactions.
-  - Integrate sustainable farming practices and environmental guidance.
-
-#### Tasks:
-- Implement performance monitoring for models and application.
-- Engage in user testing and gather feedback for iterative improvements.
-- Research and integrate advanced AI capabilities for the chatbot.
 
 ### Conclusion:
 
