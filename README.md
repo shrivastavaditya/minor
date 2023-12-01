@@ -39,13 +39,16 @@
 
 ## 📍 Overview
 
-HTTPStatus Exception: 404
+BotaniBrain is an innovative Smart Plant Disease Diagnosis system leveraging the power of AI and tailored crop solutions to assist farmers in identifying and managing diseases across various crops.
 
 ---
 
 ## 📦 Features
 
-HTTPStatus Exception: 404
+- **Multi-Crop Support:** Accurate disease identification models for Sugarcane, Rice, Corn, Wheat, and Potato.
+- **AI-Powered Chatbot:** Integrated OpenAI-based chat assistant for real-time farmer guidance.
+- **User-Friendly Interface:** Intuitive web application and a dedicated mobile app for ease of access.
+- **Continuous Improvement:** Future-ready with plans for expanding crop coverage and AI advancements.
 
 ---
 
