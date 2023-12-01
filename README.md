@@ -142,7 +142,15 @@ This project is protected under the [SELECT-A-LICENSE](https://choosealicense.co
 
 ## 👏 Acknowledgments
 
-- List any resources, contributors, inspiration, etc. here.
+We would like to express our heartfelt gratitude to the following contributors who have dedicated their time and expertise to enhance BotaniBrain:
+
+- **[ADITYA KUMAR](https://github.com/shrivastavaditya)** 
+- **[STUTI GUPTA](https://github.com/24stuti)** 
+- **[SHUBHAM SHARMA](https://github.com/shubhusion)** 
+
+Your contributions, whether in code, bug reports, feature suggestions, or discussions, have been invaluable in shaping and improving BotaniBrain. Thank you for your dedication and support!
+
+We welcome contributions from anyone willing to help improve BotaniBrain. Please check our [Contributing Guidelines](link-to-contributing-guidelines) to learn how you can get involved.
 
 [**Return**](#Top)
 
