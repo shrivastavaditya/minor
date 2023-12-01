@@ -98,6 +98,7 @@ npm install
 
 ```sh
 python main.py
+npm run minor
 ```
 
 ---
