@@ -57,11 +57,27 @@ BotaniBrain is an innovative Smart Plant Disease Diagnosis system leveraging the
 
 Please ensure you have the following dependencies installed on your system:
 
-`- ℹ️ Dependency 1`
+#### Backend Dependencies:
 
-`- ℹ️ Dependency 2`
+- **Python (>=3.7):** Core programming language used for backend development.
+- **Flask (>=2.0):** Web framework for building the backend of the application.
+- **TensorFlow (>=2.0):** Machine learning library utilized for developing and deploying the disease identification models.
+- **NLTK (>=3.6):** Natural Language Toolkit for implementing the retrieval-based chatbot functionality.
+- **NumPy (>=1.21):** Essential library for numerical computations and data manipulation.
+- **Pillow (>=8.3):** Python Imaging Library used for image processing tasks.
 
-`- ℹ️ ...`
+#### Frontend Dependencies:
+
+- **HTML5:** Markup language for structuring the web application.
+- **Tailwind CSS (>=2.2):** Utility-first CSS framework for styling the frontend.
+- **JavaScript (ECMAScript 6):** Programming language for implementing interactive features.
+- **Vue.js (>=3.0):** JavaScript framework for building user interfaces.
+
+#### Additional Tools:
+
+- **OpenAI API (>=X.X):** Used for integrating advanced AI capabilities into the chatbot.
+- **Git (>=2.30):** Version control system for collaboration and tracking changes.
+
 
 ### 🔧 Installation
 
@@ -93,6 +109,14 @@ npm test
 
 ---
 
+## 🛣 Project Roadmap
+
+> - [X] `ℹ️  Task 1: Implement X`
+> - [ ] `ℹ️  Task 2: Implement Y`
+> - [ ] `ℹ️ ...`
+
+
+---
 
 ## 🤝 Contributing
 
