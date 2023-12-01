@@ -93,7 +93,7 @@ cd server-chatapp-nestjs
 npm install
 ```
 
-### 🤖 Running server-chatapp-nestjs
+### 🤖 Running BotaniBrain
 
 ```sh
 npm run build && node dist/main.js
@@ -108,10 +108,53 @@ npm test
 
 ## 🛣 Project Roadmap
 
-> - [X] `ℹ️  Task 1: Implement X`
-> - [ ] `ℹ️  Task 2: Implement Y`
-> - [ ] `ℹ️ ...`
+### Phase 1: Initial Development 
 
+#### Milestones:
+- **Backend Setup:**
+  - Implement Flask backend architecture.
+  - Integrate initial disease identification models for five crops.
+- **Frontend Design:**
+  - Develop basic UI using HTML, Tailwind CSS, and Vue.js.
+  - Implement user authentication and image upload functionality.
+
+#### Tasks:
+- Set up the development environment and version control system.
+- Research and initiate the development of disease identification models.
+- Create a basic UI layout and user interface wireframes.
+
+### Phase 2: Chatbot Development
+
+#### Milestones:
+- **Chatbot Integration:**
+  - Train and integrate the retrieval-based chatbot with disease information.
+- **Enhanced Disease Models:**
+  - Refine and optimize disease identification models.
+  - Expand disease detection to more crop varieties.
+
+#### Tasks:
+- Integrate OpenAI API for chatbot capabilities.
+- Fine-tune disease identification models for accuracy improvements.
+- Collect and preprocess data for additional crop disease models.
+
+###  Phase 3: Optimization and Future Development (Ongoing)
+
+####  Milestones:
+- **Optimization:**
+  - Continuously optimize models for improved accuracy and efficiency.
+  - Implement user feedback mechanisms for continual improvement.
+- **AI Advancements:**
+  - Explore advanced AI techniques for personalized farmer interactions.
+  - Integrate sustainable farming practices and environmental guidance.
+
+#### Tasks:
+- Implement performance monitoring for models and application.
+- Engage in user testing and gather feedback for iterative improvements.
+- Research and integrate advanced AI capabilities for the chatbot.
+
+### Conclusion:
+
+This roadmap provides a high-level overview of BotaniBrain's development phases and milestones. The timeline and tasks may evolve based on ongoing feedback, technological advancements, and user needs.
 
 ---
 
