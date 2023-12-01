@@ -11,7 +11,8 @@
 <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?style=flat-square&logo=Tailwind%20CSS&logoColor=white" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/JSON-000000.svg?style=flat-square&logo=JSON&logoColor=white" alt="JSON" />
 </p>
-<img src="https://img.shields.io/github/license/guillaumefalvet/server-chatapp-nestjs?style=flat-square&color=5D6D7E" alt="GitHub license" />
+
+[![License: MIT](https://img.shields.io/github/license/your-username/?style=flat-square&color=5D6D7E)](https://opensource.org/licenses/MIT)
 <img src="https://img.shields.io/github/last-commit/guillaumefalvet/server-chatapp-nestjs?style=flat-square&color=5D6D7E" alt="git-last-commit" />
 <img src="https://img.shields.io/github/commit-activity/m/guillaumefalvet/server-chatapp-nestjs?style=flat-square&color=5D6D7E" alt="GitHub commit activity" />
 <img src="https://img.shields.io/github/languages/top/guillaumefalvet/server-chatapp-nestjs?style=flat-square&color=5D6D7E" alt="GitHub top language" />
@@ -96,12 +97,7 @@ npm install
 ### 🤖 Running BotaniBrain
 
 ```sh
-npm run build && node dist/main.js
-```
-
-### 🧪 Tests
-```sh
-npm test
+python main.py
 ```
 
 ---
@@ -115,7 +111,7 @@ npm test
   - Implement Flask backend architecture.
   - Integrate initial disease identification models for five crops.
 - **Frontend Design:**
-  - Develop basic UI using HTML, Tailwind CSS, and Vue.js.
+  - Develop basic UI using HTML, Tailwind CSS, and JS.
   - Implement image upload functionality.
 
 #### Tasks:
@@ -184,7 +180,7 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 ## 📄 License
 
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+This project is protected under the [MIT](https://choosealicense.com/licenses/mit/) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/mit/) file.
 
 ---
 
