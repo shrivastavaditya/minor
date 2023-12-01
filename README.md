@@ -174,8 +174,7 @@ We would like to express our heartfelt gratitude to the following contributors w
 
 Your contributions, whether in code, bug reports, feature suggestions, or discussions, have been invaluable in shaping and improving BotaniBrain. Thank you for your dedication and support!
 
-We welcome contributions from anyone willing to help improve BotaniBrain. Please check our [Contributing Guidelines](link-to-contributing-guidelines) to learn how you can get involved.
-
+We welcome contributions from anyone willing to help improve BotaniBrain.
 [**Return**](#Top)
 
 ---
