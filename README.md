@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
+<img src="https://github.com/shrivastavaditya/minor/blob/main/Picture1.png" width="200" />
 <br>BOTANIBRAIN</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript" />
