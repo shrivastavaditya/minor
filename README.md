@@ -95,15 +95,6 @@ npm test
 ---
 
 
-## 🛣 Project Roadmap
-
-> - [X] `ℹ️  Task 1: Implement X`
-> - [ ] `ℹ️  Task 2: Implement Y`
-> - [ ] `ℹ️ ...`
-
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Here are several ways you can contribute:
