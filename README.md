@@ -1,7 +1,8 @@
-<div align="center">
+![image](https://github.com/shrivastavaditya/minor/assets/96301987/b7d772c1-0688-4ddb-b789-3362309481b2)<div align="center">
 <h1 align="center">
 <img src="https://github.com/shrivastavaditya/minor/blob/main/Picture1.png" width="200" />
-<br>BOTANIBRAIN</h1>
+<br>BotaniBrain : Smart Plant Diseases Diagnosis
+</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white" alt="Python" />
