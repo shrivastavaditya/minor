@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/JSON-000000.svg?style=flat-square&logo=JSON&logoColor=white" alt="JSON" />
 </p>
 
-[![License: MIT](https://img.shields.io/github/license/your-username/?style=flat-square&color=5D6D7E)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/github/license/shrivastavaditya/minor?style=flat-square&color=5D6D7E)](https://opensource.org/licenses/MIT)
 <img src="https://img.shields.io/github/last-commit/guillaumefalvet/server-chatapp-nestjs?style=flat-square&color=5D6D7E" alt="git-last-commit" />
 <img src="https://img.shields.io/github/commit-activity/m/guillaumefalvet/server-chatapp-nestjs?style=flat-square&color=5D6D7E" alt="GitHub commit activity" />
 <img src="https://img.shields.io/github/languages/top/guillaumefalvet/server-chatapp-nestjs?style=flat-square&color=5D6D7E" alt="GitHub top language" />
