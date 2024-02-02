@@ -15,11 +15,6 @@ nltk.download('punkt')  # tokenizer
 nltk.download('wordnet')  # dictionary
 nltk.download('stopwords') 
 
-try:
-    nltk.data.find('corpora/stopwords.zip')
-except LookupError:
-    nltk.download('stopwords')  # download stopwords data
-
 app = Flask(__name__)
 
 UPLOAD_FOLDER = 'static/uploads/'
