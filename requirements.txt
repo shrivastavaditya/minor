@@ -1,6 +1,6 @@
-Flask==2.1.1
-Werkzeug==2.1.1
-nltk==3.6.2
-numpy==1.21.2
-Pillow==8.3.1
-scikit-learn==0.24.2
+Flask
+Werkzeug
+nltk
+numpy
+Pillow
+scikit-learn
